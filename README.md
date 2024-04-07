@@ -1,4 +1,4 @@
-# Progetto API 2023
+Progetto API 2023
 
 Progetto relativo al corso di Algoritmi e Principi dell'Informatica del il Politecnico di Milano.
 
